@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="waveform" src="https://github.com/user-attachments/assets/117ce2be-9c25-4fdb-a86e-168a5b42a8a8" />
 # 🔁 Parameterized Synchronous FIFO — Verilog
 
 - Parameterized `DATA_WIDTH` and `FIFO_DEPTH` — no hardcoded values
